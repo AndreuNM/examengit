@@ -1,0 +1,2 @@
+Git es un programa de gestión de versiones que permite llevar un seguimiento
+en todas las fases de creación de un proyecto
